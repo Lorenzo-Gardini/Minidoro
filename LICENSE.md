@@ -1,4 +1,4 @@
-Copyright (c) {{ year }}, {{ organization }}
+Copyright (c) {{ 2025 }}, {{ Lorenzo Gardini }}
 
 All rights reserved.
 
