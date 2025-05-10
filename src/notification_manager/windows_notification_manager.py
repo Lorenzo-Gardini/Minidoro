@@ -1,4 +1,4 @@
-from notification_manager.notification_manager_interface import NotificationManager
+from src.notification_manager.notification_manager_interface import NotificationManager
 from winotify import Notification, audio
 
 class WindowsNotificationManager(NotificationManager):

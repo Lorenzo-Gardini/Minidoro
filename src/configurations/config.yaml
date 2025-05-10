@@ -1,3 +1,5 @@
+stop_on_timeout: false
+stop_on_end: true
 total_study_time: 240
 study_time: 30
 short_break_time: 5
