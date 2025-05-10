@@ -2,7 +2,7 @@ from src.notification_manager.notification_manager_interface import Notification
 from winotify import Notification, audio
 
 class WindowsNotificationManager(NotificationManager):
-    _APP_ID = "Pomodoro Timer"
+    _APP_ID = "Minidoro"
 
     def time_to_break(self):
         notification = Notification(app_id=self._APP_ID,

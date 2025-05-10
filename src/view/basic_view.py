@@ -25,7 +25,7 @@ class BasicView(PomodoroView):
         :type break_action: Callable[[], None]
         """
         self._root = tk.Tk()
-        self._root.title("Pomodoro Timer")
+        self._root.title("Minidoro")
         self._root.geometry("300x200")
 
         self._timer = tk.Label(self._root, height=2, width=40)

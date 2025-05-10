@@ -1,0 +1,10 @@
+[project]
+name = "Minidoro"
+version = "1.0.0"
+description = "Simple minimalist Pomodoro timer, easy to use and customizable."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "winotify==1.1.0",
+    "pyyaml==6.0.2"
+]
